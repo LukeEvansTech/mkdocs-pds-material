@@ -41,7 +41,7 @@ theme:
     - navigation.sections
     - navigation.expand
   font:
-    text: Roboto
+    text: Public Sans
     code: Roboto Mono
   #icon:
   logo: 'images/logo.png'
