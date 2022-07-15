@@ -1,3 +1,9 @@
+:root>* {
+    --md-primary-fg-color: #311b4c;
+    --md-primary-fg-color--light: #311b4c;
+    --md-primary-fg-color--dark: #ffffff;
+}
+
 h2 {
     margin: 4rem 0rem 2rem 0rem !important;
     border-bottom: solid 1px rgb(70, 150, 236);
