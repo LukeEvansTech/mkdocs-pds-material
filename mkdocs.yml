@@ -44,7 +44,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   #icon:
-  #logo: 'images/logo.svg'
+  logo: 'images/logo.png'
   #favicon: 'assets/images/favicon.ico'
 
 # Extensions
