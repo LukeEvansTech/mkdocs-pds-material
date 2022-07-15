@@ -70,6 +70,8 @@ extra_javascript:
 extra_css:
   - "assets/css/custom.css"
 extra:
+  version:
+    provider: mike
   manifest: "manifest.json"
   social:
     - icon: "fontawesome/brands/github-alt"
